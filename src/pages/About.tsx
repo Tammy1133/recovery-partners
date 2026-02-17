@@ -19,7 +19,7 @@ export default function About() {
             light
             label="About Us"
             title="A Trusted Authority in Financial Recovery"
-            description="Sentinel Recovery Group was founded on the belief that victims of financial fraud deserve professional, ethical, and effective assistance in recovering their assets."
+            description="Strategic Restitution was founded on the belief that victims of financial fraud deserve professional, ethical, and effective assistance in recovering their assets."
           />
         </div>
       </section>

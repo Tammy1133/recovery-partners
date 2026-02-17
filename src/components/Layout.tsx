@@ -23,7 +23,7 @@ function Header() {
         <Link to="/" className="flex items-center gap-2 group">
           <Shield className="h-7 w-7 text-gold" />
           <span className="font-serif text-lg font-semibold text-cream tracking-wide">
-            Sentinel <span className="text-gold">Recovery</span>
+            Strategic <span className="text-gold">Restitution</span>
           </span>
         </Link>
 
@@ -99,7 +99,7 @@ function Footer() {
             <div className="flex items-center gap-2 mb-4">
               <Shield className="h-6 w-6 text-gold" />
               <span className="font-serif text-lg font-semibold text-cream">
-                Sentinel <span className="text-gold">Recovery</span>
+                Strategic <span className="text-gold">Restitution</span>
               </span>
             </div>
             <p className="text-sm text-cream/50 leading-relaxed">
@@ -140,7 +140,7 @@ function Footer() {
 
         <div className="border-t border-navy-light/20 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-xs text-cream/30">
-            © {new Date().getFullYear()} Sentinel Recovery Group. All rights reserved.
+            © {new Date().getFullYear()} Strategic Restitution. All rights reserved.
           </p>
           <div className="flex items-center gap-6 text-xs text-cream/30">
             <Link to="/legal" className="hover:text-cream/60 transition-colors">Privacy Policy</Link>
@@ -150,7 +150,7 @@ function Footer() {
         </div>
 
         <p className="text-[10px] text-cream/20 mt-6 leading-relaxed max-w-3xl">
-          Disclaimer: Sentinel Recovery Group does not guarantee the recovery of lost funds. All cases are evaluated individually. Results depend on the nature of the fraud, available evidence, and jurisdictional factors. This website does not constitute legal advice.
+          Disclaimer: Strategic Restitution does not guarantee the recovery of lost funds. All cases are evaluated individually. Results depend on the nature of the fraud, available evidence, and jurisdictional factors. This website does not constitute legal advice.
         </p>
       </div>
     </footer>

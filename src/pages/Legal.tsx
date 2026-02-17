@@ -5,7 +5,7 @@ const sections = [
   {
     icon: AlertTriangle,
     title: "No Guarantee Disclaimer",
-    content: `Sentinel Recovery Group ("the Company") does not guarantee the recovery of any funds. All recovery efforts are conducted on a best-efforts basis. The outcome of any case depends on numerous factors including, but not limited to, the nature and complexity of the fraud, the time elapsed since the fraudulent activity, the jurisdictions involved, the availability of evidence, and the cooperation of relevant financial institutions and regulatory bodies.
+    content: `Strategic Restitution ("the Company") does not guarantee the recovery of any funds. All recovery efforts are conducted on a best-efforts basis. The outcome of any case depends on numerous factors including, but not limited to, the nature and complexity of the fraud, the time elapsed since the fraudulent activity, the jurisdictions involved, the availability of evidence, and the cooperation of relevant financial institutions and regulatory bodies.
 
 Any information provided on this website, including success rates, case outcomes, or recovery amounts, is based on historical data and should not be construed as a guarantee or prediction of future results. Past performance does not guarantee future outcomes.`
   },
@@ -21,7 +21,7 @@ The applicability of any legal process, including but not limited to court order
   {
     icon: Scale,
     title: "Compliance Standards",
-    content: `Sentinel Recovery Group is committed to operating in full compliance with all applicable laws and regulations. This includes, but is not limited to:
+    content: `Strategic Restitution is committed to operating in full compliance with all applicable laws and regulations. This includes, but is not limited to:
 
 • Anti-Money Laundering (AML) regulations
 • Know Your Customer (KYC) requirements
@@ -72,7 +72,7 @@ Your Rights: You have the right to access, correct, or request deletion of your 
 • Recovery of funds does not constitute financial advice, and clients should consult independent financial advisors regarding their situation
 • In some cases, the cost of recovery may approach or exceed the amount recoverable
 
-Sentinel Recovery Group does not provide legal advice. Our services constitute financial investigation and recovery assistance. Clients requiring legal advice should consult qualified legal counsel in their jurisdiction.
+Strategic Restitution does not provide legal advice. Our services constitute financial investigation and recovery assistance. Clients requiring legal advice should consult qualified legal counsel in their jurisdiction.
 
 This website and its content are provided for informational purposes only and do not constitute a solicitation or offer in any jurisdiction where our services are not authorized.`
   },
@@ -111,7 +111,7 @@ export default function Legal() {
               Last updated: {new Date().toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}
             </p>
             <p className="text-xs text-muted-foreground mt-1">
-              © {new Date().getFullYear()} Sentinel Recovery Group. All rights reserved.
+              © {new Date().getFullYear()} Strategic Restitution. All rights reserved.
             </p>
           </div>
         </div>

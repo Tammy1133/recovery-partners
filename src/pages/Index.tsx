@@ -59,11 +59,11 @@ export default function Index() {
             Financial Recovery & Investigation
           </span>
           <h1 className="font-serif text-4xl md:text-5xl lg:text-6xl font-bold text-cream leading-tight max-w-4xl mx-auto animate-fade-in" style={{ animationDelay: "0.1s" }}>
-            Recovering What Was Taken.{" "}
-            <span className="text-gradient-gold">Restoring What Matters.</span>
+            Your Funds. Your Rights.{" "}
+            <span className="text-gradient-gold">Our Expertise.</span>
           </h1>
           <p className="mt-6 text-lg md:text-xl text-cream/60 max-w-2xl mx-auto leading-relaxed animate-fade-in" style={{ animationDelay: "0.2s" }}>
-            Professional fund recovery services for victims of online fraud. Discreet, compliant, and results-driven financial investigation.
+            Elite financial investigation and fund recovery for victims of fraud. Methodical. Discreet. Uncompromising.
           </p>
           <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4 animate-fade-in" style={{ animationDelay: "0.3s" }}>
             <Button variant="hero" size="lg" asChild>
@@ -144,7 +144,7 @@ export default function Index() {
       {/* Why Choose Us */}
       <section className="section-padding bg-navy">
         <div className="container-wide mx-auto">
-          <SectionHeading light label="Why Sentinel Recovery" title="Built on Integrity, Driven by Results" description="We combine investigative rigor with legal expertise to pursue every viable recovery path." />
+          <SectionHeading light label="Why Strategic Restitution" title="Built on Integrity, Driven by Results" description="We combine investigative rigor with legal expertise to pursue every viable recovery path." />
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             {reasons.map((r, i) => (
               <div key={i} className="flex gap-4 p-6 rounded-lg border border-navy-light/30 bg-navy-light/20">
@@ -217,7 +217,7 @@ export default function Index() {
       <section className="bg-navy-dark py-8">
         <div className="container-narrow mx-auto px-4 text-center">
           <p className="text-[11px] text-cream/25 leading-relaxed">
-            Sentinel Recovery Group provides financial investigation and recovery assistance services. We are not a law firm, and our services do not constitute legal advice. Recovery outcomes are not guaranteed and depend on individual case circumstances, available evidence, jurisdictional factors, and the cooperation of relevant institutions. All claims on this website are based on our professional experience and should not be construed as promises or guarantees of specific outcomes.
+            Strategic Restitution provides financial investigation and recovery assistance services. We are not a law firm, and our services do not constitute legal advice. Recovery outcomes are not guaranteed and depend on individual case circumstances, available evidence, jurisdictional factors, and the cooperation of relevant institutions. All claims on this website are based on our professional experience and should not be construed as promises or guarantees of specific outcomes.
           </p>
         </div>
       </section>
